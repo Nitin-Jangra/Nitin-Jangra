@@ -21,7 +21,7 @@ Here are some of the technologies and tools I work with:
 - **Software:** Power BI, MS Excel, MS Power Point, MS Word, Canva
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![NITIN GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 📫 Get in Touch
 
